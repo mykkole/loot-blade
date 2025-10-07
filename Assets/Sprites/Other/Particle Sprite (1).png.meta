@@ -1,0 +1,863 @@
+fileFormatVersion: 2
+guid: 63da2f0ec86b4b0478886721d1d1d745
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb4fbc11ed0b454aa4049cf104e9428
+      internalID: 1342243015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe55c404af4b3d46bf9c9b07cbca2b6
+      internalID: 42583676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687fd4d0a802954a94695a189c0582b
+      internalID: -675642714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1cb9b6d53c33149be4b5b16be8aa54
+      internalID: -216834060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52cfc03250424449a865ddf43303b4d
+      internalID: 647362804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10da0ed7ab5d5fd4cbf0fa90038e9206
+      internalID: 1237471803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2db9527e2e16c4783cb3f47d1f72d2
+      internalID: -1098625557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ba57197c13d64e8f47c1e827a51ca
+      internalID: -864003330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d48cfd5660b3794dac11d81b3714184
+      internalID: -32677233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0fb711cedf1ba4fb062ad0960b0219
+      internalID: 240696817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5add97f9a6829ba4b9f0635de1aa722b
+      internalID: -1064399590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2796a2de9864f6141a25a76fe1671bf2
+      internalID: 1512386192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586334f1acaf954ba865ec578b0312d
+      internalID: -1406749334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7f122c82a1ccf4eab9eb63ece61bcb
+      internalID: 782102351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c060c6416600e4bbe648d854169240
+      internalID: 1738466447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64da467ee6b27b74f8342ea2e7a5e672
+      internalID: -1393330467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f481f46fd20ee14aaa5051bf8e91093
+      internalID: 498635120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff7775c65cb4044ae60792d3eaa7a5
+      internalID: 1539967953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a7418bdc41dab4aba90e21eae0063b
+      internalID: -1733407658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a9bb578c1c5e4a9d19e73122625b6
+      internalID: -1260386031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b363030b0f9350b4d8a35753bcdc5275
+      internalID: 534076989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f35c280fc8c8047927a052549b7f3c
+      internalID: -890416534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_22
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c701ecf8976447b0ef4eae7fe534d
+      internalID: 1541390927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cf643e88f6c5b4e8472d2ee117466f
+      internalID: 1532715525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_24
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2a81912edfec5468494fe036f64cf7
+      internalID: 1710884498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_25
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494764bdd52050c4cbf9474aec7467d9
+      internalID: -612655189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 60
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ded16217e9c654389b37e420eebcdd
+      internalID: -1493079424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250b5719f0e3eba42822f2e8b830bdaa
+      internalID: -734869620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed96dcfda0ffea408115c6ccf59d962
+      internalID: -1654402450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba433ca5d804734fa4f3a3172a94b01
+      internalID: -2126714799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83277ceef512d749841644cfb334007
+      internalID: 831972456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters -
+        Hero (No Weapon) (Female)_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 37.037037
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae49eba110a7de48a95c90fe11ddd69
+      internalID: -686545952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_0: 1342243015
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_1: 42583676
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_10: -1064399590
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_11: 1512386192
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_12: -1406749334
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_13: 782102351
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_14: 1738466447
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_15: -1393330467
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_16: 498635120
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_17: 1539967953
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_18: -1733407658
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_19: -1260386031
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_2: -675642714
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_20: 534076989
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_21: -890416534
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_22: 1541390927
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_23: 1532715525
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_24: 1710884498
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_25: -612655189
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_26: -1493079424
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_27: -734869620
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_28: -1654402450
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_29: -2126714799
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_3: -216834060
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_30: 831972456
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_31: -686545952
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_4: 647362804
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_5: 1237471803
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_6: -1098625557
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_7: -864003330
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_8: -32677233
+      PC _ Computer - Dragon Quest III HD-2D Remake - Playable Characters - Hero (No Weapon) (Female)_9: 240696817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

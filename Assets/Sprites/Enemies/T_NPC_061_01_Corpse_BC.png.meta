@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: bb8bba7b127b08648b44ca0051809c8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.55829674, y: 0.12471445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6a52dfa4391bf4a84c7c8befad5916
+      internalID: -1946831543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.42712927, y: 0.12471445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24600b5ab601ee7488231782bda1a453
+      internalID: 659481770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 29
+        height: 64
+      alignment: 9
+      pivot: {x: 0.580158, y: 0.16479349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b365e728af3e947a96198f75f21a9d
+      internalID: -976227030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 30
+        height: 64
+      alignment: 9
+      pivot: {x: 0.32899603, y: 0.14657575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a1969948c43a4aa43b6d867547641
+      internalID: -1918930395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.44170332, y: 0.14657575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a2e0cb968d1f44ab8f32127be7e0e
+      internalID: -27180968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.41984177, y: 0.13928865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838c3bf919809b499caf1fcb3d1aeca
+      internalID: -498767402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4271288, y: 0.13564509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c1e8afa02089498b2d4d926e6f4cc
+      internalID: -972845270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.44170284, y: 0.16114995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70664b9c6421d0f47bb34a478a01ef1f
+      internalID: 952862174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47813797, y: 0.14657575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46be1f9a7515a49a0228067531e606
+      internalID: -362134639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46356392, y: 0.1210709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e43d708e17fb2e4ea5b035cd5229b01
+      internalID: -2031434259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.51457405, y: 0.17208059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a17e71b67ab9304e8f2d5d88f45f20a
+      internalID: 860703698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47813892, y: 0.15021929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f35bd78531373e4c81fbffc1be6384b
+      internalID: 1386123736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 30
+        height: 64
+      alignment: 9
+      pivot: {x: 0.60104674, y: 0.15386285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ce7211c340eb640927018ffddb91a5
+      internalID: 1735750009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 27
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49999887, y: 0.18665479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1211ad765455741807c06493f67caa
+      internalID: 1703858730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 30
+        height: 64
+      alignment: 9
+      pivot: {x: 0.60104775, y: 0.16479349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db897015085684f409ed3cbf1981c803
+      internalID: -1624788544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 27
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43954355, y: 0.16479349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f507208566a4f8f45b3fe6cf6ce34df7
+      internalID: -85537166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 26
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3206247, y: 0.15750639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a39f2e82205ef043864dd2c3207d4d3
+      internalID: -1433926729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 30
+        height: 64
+      alignment: 9
+      pivot: {x: 0.36008707, y: 0.17572415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165a5279cd106f24ea9a62621ca7ece5
+      internalID: 1198479094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 27
+        height: 64
+      alignment: 9
+      pivot: {x: 0.37045175, y: 0.19394189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e41b9f92be97944ac0bdb346f6d01f
+      internalID: -1069448377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 28
+        height: 64
+      alignment: 9
+      pivot: {x: 0.34623528, y: 0.19915646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9b4e2735108f40ae54ffdf5503c11
+      internalID: 1011761965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 41
+        width: 57
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5037531, y: 0.15584631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e0af3fe152d74bac1e15437253cc7
+      internalID: -2097671267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 41
+        width: 60
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5035655, y: 0.15584631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335fbde440d419547a0e82d84c95bc40
+      internalID: -354162348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.44651604, y: 0.13898776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1c35464ac1b954f8edaaa7dcf60a85
+      internalID: -1320301904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4866295, y: 0.12895964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0f1ae1122698458f713cdacd57cb5
+      internalID: -1747477494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 34
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5601673, y: 0.15235859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096bba614dd4c54b90abe0d74d2f731
+      internalID: -1720856067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_26
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25263977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc78f23862763d1428b629283d855bee
+      internalID: 960568760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36294907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f7e3299012d94f81b1da7204d65c1
+      internalID: 315421344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49331284, y: 0.3763199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e7288b5efef8049b25b2e5e6f54840
+      internalID: 314556013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_NPC_061_01_Corpse_BC_29
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3763199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d33f5d0ef9e04b84dbedd47b788b6
+      internalID: -113313747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      T_NPC_061_01_Corpse_BC_0: -1946831543
+      T_NPC_061_01_Corpse_BC_1: 659481770
+      T_NPC_061_01_Corpse_BC_10: 860703698
+      T_NPC_061_01_Corpse_BC_11: 1386123736
+      T_NPC_061_01_Corpse_BC_12: 1735750009
+      T_NPC_061_01_Corpse_BC_13: 1703858730
+      T_NPC_061_01_Corpse_BC_14: -1624788544
+      T_NPC_061_01_Corpse_BC_15: -85537166
+      T_NPC_061_01_Corpse_BC_16: -1433926729
+      T_NPC_061_01_Corpse_BC_17: 1198479094
+      T_NPC_061_01_Corpse_BC_18: -1069448377
+      T_NPC_061_01_Corpse_BC_19: 1011761965
+      T_NPC_061_01_Corpse_BC_2: -976227030
+      T_NPC_061_01_Corpse_BC_20: -2097671267
+      T_NPC_061_01_Corpse_BC_21: 1864522890
+      T_NPC_061_01_Corpse_BC_22: -354162348
+      T_NPC_061_01_Corpse_BC_23: -1320301904
+      T_NPC_061_01_Corpse_BC_24: -1747477494
+      T_NPC_061_01_Corpse_BC_25: -1720856067
+      T_NPC_061_01_Corpse_BC_26: 960568760
+      T_NPC_061_01_Corpse_BC_27: 315421344
+      T_NPC_061_01_Corpse_BC_28: 314556013
+      T_NPC_061_01_Corpse_BC_29: -113313747
+      T_NPC_061_01_Corpse_BC_3: -1918930395
+      T_NPC_061_01_Corpse_BC_4: -27180968
+      T_NPC_061_01_Corpse_BC_5: -498767402
+      T_NPC_061_01_Corpse_BC_6: -972845270
+      T_NPC_061_01_Corpse_BC_7: 952862174
+      T_NPC_061_01_Corpse_BC_8: -362134639
+      T_NPC_061_01_Corpse_BC_9: -2031434259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
